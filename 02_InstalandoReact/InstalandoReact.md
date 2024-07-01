@@ -1,5 +1,5 @@
 
-como instalar o React?
+Como instalar o React?
 
 - Para instalar o React vamos utilizar uma ferramenta chamada Create React App.
 - Recebemos todos os arquivos da biblioteca e temos como executa-la.
