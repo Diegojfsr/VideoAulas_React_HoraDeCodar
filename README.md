@@ -1,5 +1,3 @@
-# VideoAulas_React_HoraDeCodar
-VideoAulas de lógica de programação para iniciante em React| Curso de React Matheus Battisti - Hora de Codar
 
 <!--
 ![](https://github.com/Diegojfsr/VideoAulas_JavaScript_HoraDeCodar/blob/main/img/Capa_Projetos_JavaScript1.jpg)
